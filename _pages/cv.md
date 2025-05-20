@@ -100,22 +100,6 @@ The College of William and Mary
   Miller, L., Lu, Y., Garcia, D., Haber, N., & Everidge, C. (2019). *Subliminal Modulation of Semantic Interference.* Poster, 33rd Annual LVAIC Undergraduate Psychology Conference.  
 
 
----
-
-## Teaching Experience
-
-- **Cognitive Psychology** – Primary Instructor (Summer Session II ’21, ’22, ’23)  
-- **Cognitive Neuroscience Recitation** – Primary Instructor (Fall 2020)  
-- **Research Methods & Data Analysis I** – Lab Instructor (Spring ’19, Fall ’19)  
-- **Research Methods & Data Analysis III** – Lab Instructor (Spring ’20, Spring ’21, Fall ’21)  
-- **Introduction to Linguistics** – Teaching Assistant (Fall ’18, Fall ’22, Fall ’23)  
-- **Research Methods & Data Analysis I** – Teaching Assistant (Spring ’19, Fall ’19)  
-- **Research Methods & Data Analysis III** – Teaching Assistant (Spring ’20, Spring ’21, Fall ’21)  
-- **Cognitive Neuroscience** – Teaching Assistant (Fall 2020)  
-- **Introduction to Cognitive Science** – Teaching Assistant (Spring ’24)  
-
----
-
 ## Awards
 
 - CAS Graduate Student Research Prize (2023), $500  
