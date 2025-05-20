@@ -19,17 +19,17 @@ redirect_from:
 **2024–2026**  
 NSF Postdoctoral Research Fellow  
 Bowdoin College  
-PI: Abhilasha Kumar, Ph.D
+PI: Abhilasha Kumar, PhD
 
 ---
 
 ## Education
 
 **2024**  
-**Ph.D. in Psychology**  
+**PhD in Psychology**  
 Lehigh University  
 *An Integrated Language and Memory Approach to Conceptual-Lexical Retrieval*  
-Advisor: Pádraig O’Séaghdha, Ph.D
+Advisor: Pádraig O’Séaghdha, PhD
 
 **2020**  
 **Master of Science in Psychology**  
