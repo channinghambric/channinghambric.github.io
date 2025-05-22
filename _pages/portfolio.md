@@ -25,4 +25,4 @@ Even though speaking is learned readily at a relatively early stage of developme
 ### How do we study it?
 Semantic interference is often studied through timed picture naming tasks that require generation of names from memory. Pictures are assumed to activate conceptual knowledge and corresponding sectors of the lexicon from which the most fitting name is selected. Picture naming is thus a proxy for the general process of conceptually-driven word retrieval. Researchers have used the picture-interference task, the cyclic (blocked) picture naming task, and the continuous picture naming task to study this phenomenon. The general finding is that it takes longer to name a picture if you have recently named a related picture, and production difficulty increases linearly with the number of named associates.
 
-<img src="/images/tasks.png" alt="Diagram" width="450">
+<img src="/images/tasks.png" alt="Diagram" width="800" style="display: block; margin: 0 auto;">
