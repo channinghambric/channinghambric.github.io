@@ -11,7 +11,7 @@ author_profile: true
 <div style="display: flex; align-items: center;">
   <!-- Image on the left -->
   <div style="margin-right: 10px;">
-    <img src="/images/lehigh.png" alt="Lehigh University Logo" width="40" style="margin-top: 40px;">
+    <img src="/images/lehigh.png" alt="Lehigh University Logo" width="30" style="margin-top: 40px;">
   </div>
 
   <!-- Header on the right -->
