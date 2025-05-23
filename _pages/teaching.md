@@ -8,14 +8,16 @@ author_profile: true
 
 ## Teaching Experience
 
-<div style="display: flex; align-items: flex-start;">
-<div style="flex: 1; padding-right: 20px;">
- <h3 style="color: #4c3f2b;">Lehigh University</h3> 
+<div style="display: flex; align-items: center;">
+  <!-- Image on the left -->
+  <div style="margin-right: 10px;">
+    <img src="/images/lehigh.png" alt="Lehigh University Logo" width="100">
   </div>
 
+  <!-- Header on the right -->
   <div>
-  <img src="/images/lehigh.png" alt="Diagram" width="50" style="margin-top: 40px;">
-</div>
+    <h3 style="color: #4c3f2b;">Lehigh University</h3>
+  </div>
 </div>
 
 - **Cognitive Psychology** – Primary Instructor (Summer Session II ’21, ’22, ’23)  
