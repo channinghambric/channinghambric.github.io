@@ -37,7 +37,7 @@ The semantic interference effect in language production is markedly similar to t
 <h2 style="color: #6cab6c;">Computational Approaches to Lexical Search</h2>
 In my current postdoctoral position, I am working with my supervisor <a href="https://abhilashak.weebly.com/" target="_blank" style="color: #6cab6c;">Dr. Abhilasha Kumar</a> and our collaborator <a href="https://www.jonesmn.com/" target="_blank" style="color: #6cab6c;">Dr. Mike Jones</a> to investigate computational models of semantic search. Specifically, we are modeling the semantic fluency task to better understand the structure of semantic memory, the types of information people use to search for related words, as well as the processes in which this information is utilized. In the semantic fluency task, participants are presented with a category (e.g., Animals) and asked to generate as many exemplars as possible. Researchers have found that people tend to retrieve words in related "clusters," and the way they "switch" to new areas of search mirrors the way animals <em>optimally forage</em> for resources in their environment (Hills et al., 2012). Even though the semantic fluency task doesn't ask participants to consider how words sound, Kumar et al. (2022) found that people tend to use phonological similarity to guide their search within and across clusters.
 
-<img src="/images/clusters.png" alt="Diagram" width="800" style="display: block; margin: 0 auto;">
+<img src="/images/clusters.png" alt="Diagram" width="700" style="display: block; margin: 0 auto;">
  
  <div style="display: flex; align-items: flex-start;">
   <!-- Left side: header and paragraph -->
