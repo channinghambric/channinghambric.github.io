@@ -14,7 +14,7 @@ author_profile: true
   </div>
 
   <div>
-  <img src="/images/lehigh.png" alt="Diagram" width="250" style="margin-top: 40px;">
+  <img src="/images/lehigh.png" alt="Diagram" width="50" style="margin-top: 40px;">
 </div>
 </div>
 
