@@ -39,3 +39,4 @@ In my current postdoctoral position, I am working with my supervisor <a href="ht
 
 <img src="/images/clusters.png" alt="Diagram" width="800" style="display: block; margin: 0 auto;">
  
+ <h3 style="color: #6cab6c;">How do we model it?</h3> 
