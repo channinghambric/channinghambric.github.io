@@ -21,15 +21,15 @@ author_profile: true
 </div>
 
 ### Primary Instructor
-- **Cognitive Psychology** – Primary Instructor (Summer Session II ’21, ’22, ’23)  
-- **Cognitive Neuroscience Recitation** – Primary Instructor (Fall 2020)  
-- **Research Methods & Data Analysis I** – Lab Instructor (Spring ’19, Fall ’19)  
-- **Research Methods & Data Analysis III** – Lab Instructor (Spring ’20, Spring ’21, Fall ’21)
+- **Cognitive Psychology** – Summer Session II ’21, ’22, ’23  
+- **Cognitive Neuroscience Recitation** – Fall 2020  
+- **Research Methods & Data Analysis I - Lab** - Spring ’19, Fall ’19  
+- **Research Methods & Data Analysis III - Lab** - Spring ’20, Spring ’21, Fall ’21
 
 
 ### Teaching Assistant
-- **Introduction to Linguistics** – Teaching Assistant (Fall ’18, Fall ’22, Fall ’23)  
-- **Research Methods & Data Analysis I** – Teaching Assistant (Spring ’19, Fall ’19)  
-- **Research Methods & Data Analysis III** – Teaching Assistant (Spring ’20, Spring ’21, Fall ’21)  
-- **Cognitive Neuroscience** – Teaching Assistant (Fall 2020)  
-- **Introduction to Cognitive Science** – Teaching Assistant (Spring ’24)  
+- **Introduction to Linguistics** – Fall ’18, Fall ’22, Fall ’23  
+- **Research Methods & Data Analysis I** – Spring ’19, Fall ’19  
+- **Research Methods & Data Analysis III** – Spring ’20, Spring ’21, Fall ’21  
+- **Cognitive Neuroscience** – Fall 2020  
+- **Introduction to Cognitive Science** – Spring ’24  
