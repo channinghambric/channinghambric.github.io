@@ -17,7 +17,7 @@ Even though speaking is learned readily at a relatively early stage of developme
   </div>
 
   <div>
-  <img src="/images/interference.png" alt="Diagram" width="450" style="margin-top: 20px;">
+  <img src="/images/interference.png" alt="Diagram" width="450" style="margin-top: 40px;">
 </div>
 </div>
 
