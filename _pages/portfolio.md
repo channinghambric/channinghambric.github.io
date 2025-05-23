@@ -39,9 +39,6 @@ In my current postdoctoral position, I am working with my supervisor <a href="ht
 
 <img src="/images/clusters.png" alt="Diagram" width="800" style="display: block; margin: 0 auto;">
  
- <h3 style="color: #6cab6c;">How do we model it?</h3> 
- Once we have a set of fluency lists, we extract word meanings from cutting-edge distributional semantic models. We then use the python package <em>forager</em>, developed by Kumar et al. (2024) to divide each list into clusters and switches and run different optimal foraging models. Each of these models incorporates lexical cues, such as word frequency, semantic similarity, and phonological similarity, at different stages of the search process. We then examine how well each model predicted the data, taking into account differing model parameters.
-
  <div style="display: flex; align-items: flex-start;">
   <!-- Left side: header and paragraph -->
   <div style="flex: 1; padding-right: 20px;">
@@ -55,3 +52,5 @@ In my current postdoctoral position, I am working with my supervisor <a href="ht
   <img src="/images/forager.png" alt="Diagram" width="450;">
 </div>
 </div>
+
+<h3 style="color: #6cab6c;">Search in Different Types of Categories</h3> 
