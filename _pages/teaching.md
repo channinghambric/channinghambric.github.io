@@ -11,7 +11,7 @@ author_profile: true
 <div style="display: flex; align-items: center;">
   <!-- Image on the left -->
   <div style="margin-right: 10px;">
-    <img src="/images/lehigh.png" alt="Lehigh University Logo" width="100">
+    <img src="/images/lehigh.png" alt="Lehigh University Logo" width="75">
   </div>
 
   <!-- Header on the right -->
@@ -24,7 +24,8 @@ author_profile: true
 - **Cognitive Neuroscience Recitation** – Primary Instructor (Fall 2020)  
 - **Research Methods & Data Analysis I** – Lab Instructor (Spring ’19, Fall ’19)  
 - **Research Methods & Data Analysis III** – Lab Instructor (Spring ’20, Spring ’21, Fall ’21)
-  
+
+
 - **Introduction to Linguistics** – Teaching Assistant (Fall ’18, Fall ’22, Fall ’23)  
 - **Research Methods & Data Analysis I** – Teaching Assistant (Spring ’19, Fall ’19)  
 - **Research Methods & Data Analysis III** – Teaching Assistant (Spring ’20, Spring ’21, Fall ’21)  
