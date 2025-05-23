@@ -12,13 +12,13 @@ Even though speaking is learned readily at a relatively early stage of developme
   <div style="flex: 1; padding-right: 20px;">
     <h2 style="color: #6666CC;">Semantic Interference</h2>
     <p>
-      You may recall instances in which your parent mistakenly referred to you by your sibling’s name, or perhaps worse, by the cat’s name. While it may be tempting to attribute this error to a lack of parental affection, it is in reality a reflection of the interconnectivity among related concepts and words. Activation of one concept leads to the concurrent activation of semantically related concepts, as well as the respective words associated with those concepts (e.g., Dell et al., 1997; Levelt et al., 1999). Lexical selection, or the mapping of a concept to a single word, is a critical stage in production that is well poised to illuminate the interface between our memory and language systems. Notably, the activation of multiple words when only one can be spoken at any given time can result in production difficulty, or <em>semantic interference</em>. This line of work was carried out in conjunction with my graduate advisor at Lehigh University, *[Dr. Pat O'Seaghdha](https://scholar.google.com/citations?user=Bs-d3CUAAAAJ&hl=en)*. 
+      You may recall instances in which your parent mistakenly referred to you by your sibling’s name, or perhaps worse, by the cat’s name. While it may be tempting to attribute this error to a lack of parental affection, it is in reality a reflection of the interconnectivity among related concepts and words. Activation of one concept leads to the concurrent activation of semantically related concepts, as well as the respective words associated with those concepts (e.g., Dell et al., 1997; Levelt et al., 1999). Lexical selection, or the mapping of a concept to a single word, is a critical stage in production that is well poised to illuminate the interface between our memory and language systems. Notably, the activation of multiple words when only one can be spoken at any given time can result in production difficulty, or <em>semantic interference</em>. This line of work was carried out in conjunction with my graduate advisor at Lehigh University, <a href="https://scholar.google.com/citations?user=Bs-d3CUAAAAJ&hl=en" target="_blank" style="color: #6666CC;">Dr. Pat O'Seaghdha</a>. 
     </p>
   </div>
 
   <div>
-    <img src="/images/interference.png" alt="Diagram" width="450">
-  </div>
+  <img src="/images/interference.png" alt="Diagram" width="450" style="margin-top: 20px;">
+</div>
 </div>
 
 <h3 style="color: #6666CC;">How do we study it?</h3> 
@@ -33,16 +33,9 @@ The semantic interference effect in language production is markedly similar to t
 <img src="/images/rifsi.png" alt="Diagram" width="900" style="display: block; margin: 0 auto;">
 
 
-<div style="display: flex; align-items: flex-start;">
-  <!-- Left side: header and paragraph -->
-  <div style="flex: 1; padding-right: 20px;">
-    <h2 style="color: #6cab6c;">Computational Approaches to Lexical Search</h2>
-    <p>
-      In my current postdoctoral position, I am working with my supervisor *[Dr. Abhilasha Kumar](https://abhilashak.weebly.com/)* and our collaborator *[Dr. Mike Jones](https://www.jonesmn.com/)* to investigate computational models of semantic search. Specifically, we are modeling the semantic fluency task to better understand the structure of semantic memory, the types of information people use to search for related words, as well as the processes in which this information is utilized. In the semantic fluency task, participants are presented with a category (e.g., Animals) and asked to generate as many exemplars as possible. Researchers have found that people tend to retrieve words in related "clusters," and the way they "switch" to new areas of search mirrors the way animals <em>optimally forage</em> for resources in their environment (Hills et al., 2012). Even though the semantic fluency task doesn't ask participants to consider how words sound, Kumar et al. (2022) found that people tend to use phonological similarity to guide their search within and across clusters.
-    </p>
-  </div>
 
-  <div>
-    <img src="/images/clusters.png" alt="Diagram" width="800">
-  </div>
-</div>
+<h2 style="color: #6cab6c;">Computational Approaches to Lexical Search</h2>
+In my current postdoctoral position, I am working with my supervisor <a href="https://abhilashak.weebly.com/" target="_blank" style="color: #6cab6c;">Dr. Abhilasha Kumar</a> and our collaborator <a href="https://www.jonesmn.com/" target="_blank" style="color: #6cab6c;">Dr. Mike Jones</a> to investigate computational models of semantic search. Specifically, we are modeling the semantic fluency task to better understand the structure of semantic memory, the types of information people use to search for related words, as well as the processes in which this information is utilized. In the semantic fluency task, participants are presented with a category (e.g., Animals) and asked to generate as many exemplars as possible. Researchers have found that people tend to retrieve words in related "clusters," and the way they "switch" to new areas of search mirrors the way animals <em>optimally forage</em> for resources in their environment (Hills et al., 2012). Even though the semantic fluency task doesn't ask participants to consider how words sound, Kumar et al. (2022) found that people tend to use phonological similarity to guide their search within and across clusters.
+
+<img src="/images/clusters.png" alt="Diagram" width="800" style="display: block; margin: 0 auto;">
+ 
