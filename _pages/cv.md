@@ -16,7 +16,6 @@ redirect_from:
 
 ## Academic Appointments
 
-**2024–2026**
 <div style="display: flex; align-items: center;">
   <!-- Image on the left -->
   <div style="margin-right: 10px;">
@@ -28,7 +27,7 @@ redirect_from:
     <h3 style="color:rgb(0, 0, 0); margin: 0;">Bowdoin College </h3>
   </div>
 </div>
-**NSF Postdoctoral Scholar - 2024-2026*    
+**NSF Postdoctoral Scholar - 2024-2026**    
 PI: Abhilasha Kumar, PhD
 
 ---
