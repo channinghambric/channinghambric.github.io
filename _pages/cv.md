@@ -25,9 +25,10 @@ redirect_from:
 
   <!-- Header on the right -->
   <div>
-    <h3 style="color:rgb(0, 0, 0); margin: 0;">NSF Postdoctoral Scholar </h3>
+    <h3 style="color:rgb(0, 0, 0); margin: 0;">Bowdoin College </h3>
   </div>
-</div>    
+</div>
+**NSF Postdoctoral Scholar - 2024-2026*    
 PI: Abhilasha Kumar, PhD
 
 ---
@@ -45,7 +46,8 @@ PI: Abhilasha Kumar, PhD
     <h3 style="color: #4c3f2b; margin: 0;">Lehigh University</h3>
   </div>
 </div> 
-**2024 - PhD in Psychology**  
+**2024 - PhD in Psychology** 
+*An Integrated Language and Memory Approach to Conceptual-Lexical Retrieval* 
 
  <div style="height: 30px;"></div>
   
@@ -61,8 +63,6 @@ PI: Abhilasha Kumar, PhD
   </div>
 </div>
 **2020 - Master Science in Psychology** 
-*Raising the Bar: Differentiating Immediate and Long-term Components of Semantic Interference in 
-Language Production*
 Advisor: Pádraig O’Séaghdha, PhD
 <div style="height: 30px;"></div>
 
