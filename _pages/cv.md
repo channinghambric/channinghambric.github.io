@@ -16,9 +16,19 @@ redirect_from:
 
 ## Academic Appointments
 
-**2024–2026**  
+**2024–2026**
+<div style="display: flex; align-items: center;">
+  <!-- Image on the left -->
+  <div style="margin-right: 10px;">
+    <img src="/images/bowdoin.png" alt="Lehigh University Logo" width="30" style="margin-top: 40px;">
+  </div>
+
+  <!-- Header on the right -->
+  <div>
+    <h3>Bowdoin College</h3>
+  </div>
+</div>  
 NSF Postdoctoral Research Fellow  
-Bowdoin College  
 PI: Abhilasha Kumar, PhD
 
 ---
@@ -27,15 +37,46 @@ PI: Abhilasha Kumar, PhD
 
 **2024**  
 **PhD in Psychology**  
-Lehigh University  
+<div style="display: flex; align-items: center;">
+  <!-- Image on the left -->
+  <div style="margin-right: 10px;">
+    <img src="/images/lehigh.png" alt="Lehigh University Logo" width="30" style="margin-top: 40px;">
+  </div>
+
+  <!-- Header on the right -->
+  <div>
+    <h3 style="color: #4c3f2b;">Lehigh University</h3>
+  </div>
+</div> 
 *An Integrated Language and Memory Approach to Conceptual-Lexical Retrieval*  
 Advisor: Pádraig O’Séaghdha, PhD
 
 **2020**  
 **Master of Science in Psychology**  
-Lehigh University  
+<div style="display: flex; align-items: center;">
+  <!-- Image on the left -->
+  <div style="margin-right: 10px;">
+    <img src="/images/lehigh.png" alt="Lehigh University Logo" width="30" style="margin-top: 40px;">
+  </div>
+
+  <!-- Header on the right -->
+  <div>
+    <h3 style="color: #4c3f2b;">Lehigh University</h3>
+  </div>
+</div>
 
 **2018**  
+<div style="display: flex; align-items: center;">
+  <!-- Image on the left -->
+  <div style="margin-right: 10px;">
+    <img src="/images/wm.png" alt="Lehigh University Logo" width="30" style="margin-top: 40px;">
+  </div>
+
+  <!-- Header on the right -->
+  <div>
+    <h3 style="color: #003300;">The College of William & Mary</h3>
+  </div>
+</div>
 **Bachelor of Science in Psychology**  
 The College of William and Mary  
 *Magna cum laude with honors*
