@@ -17,7 +17,7 @@ redirect_from:
 ## Academic Appointments
 
 **2024–2026**
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; margin-bottom:5x;">
   <!-- Image on the left -->
   <div style="margin-right: 10px;">
     <img src="/images/bowdoin.png" alt="Lehigh University Logo" width="40;">
@@ -33,7 +33,7 @@ PI: Abhilasha Kumar, PhD
 ---
 
 ## Education
-
+ <div style="height: 30px;"></div>
 <div style="display: flex; align-items: center; margin-bottom: 5px;">
   <!-- Image on the left -->
   <div style="margin-right: 10px;">
@@ -62,10 +62,10 @@ Advisor: Pádraig O’Séaghdha, PhD
     <h3 style="color: #4c3f2b;; margin: 0;">Lehigh University</h3>
   </div>
 </div>
-**2020 - Master Science in Psychology** 
-*Raising the Bar: Differentiating Immediate and Long-term Components of Semantic Interference in 
-Language Production*
-Advisor: Pádraig O’Séaghdha, PhD
+</div>
+<p><strong>2020 - Master Science in Psychology</strong></p>
+<p><em>Raising the Bar: Differentiating Immediate and Long-term Components of Semantic Interference in Language Production</em></p>
+<p>Advisor: Pádraig O’Séaghdha, PhD</p>
 <div style="height: 30px;"></div>
 
 <div style="display: flex; align-items: center; margin-bottom: 5px;">
