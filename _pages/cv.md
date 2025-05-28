@@ -15,7 +15,7 @@ redirect_from:
 ---
 
 ## Academic Appointments
-
+ <div style="height: 30px;"></div>
 <div style="display: flex; align-items: center;">
   <!-- Image on the left -->
   <div style="margin-right: 10px;">
@@ -33,7 +33,7 @@ PI: Abhilasha Kumar, PhD
 ---
 
 ## Education
- <div style="height: 30px;"></div>
+<div style="height: 30px;"></div>
 <div style="display: flex; align-items: center; margin-bottom: 5px;">
   <!-- Image on the left -->
   <div style="margin-right: 10px;">
@@ -45,8 +45,14 @@ PI: Abhilasha Kumar, PhD
     <h3 style="color: #4c3f2b; margin: 0;">Lehigh University</h3>
   </div>
 </div> 
-**2024 - PhD in Psychology** 
-*An Integrated Language and Memory Approach to Conceptual-Lexical Retrieval* 
+
+<!-- Degree and Advisor Info -->
+<div>
+  <strong>2024 - PhD in Psychology</strong><br>
+  <em>Advisor: Padraig O'Seaghdha, PhD</em>
+</div>
+ 
+
 
  <div style="height: 30px;"></div>
   
@@ -62,7 +68,7 @@ PI: Abhilasha Kumar, PhD
   </div>
 </div>
 **2020 - Master Science in Psychology** 
-Advisor: Pádraig O’Séaghdha, PhD
+
 <div style="height: 30px;"></div>
 
 <div style="display: flex; align-items: center; margin-bottom: 5px;">
@@ -77,7 +83,7 @@ Advisor: Pádraig O’Séaghdha, PhD
   </div>
 </div>
 **2018 - Bachelor of Science in Psychology**    
-*Magna cum laude with honors*
+
 
 ---
 
