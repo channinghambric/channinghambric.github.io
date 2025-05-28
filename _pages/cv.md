@@ -17,7 +17,7 @@ redirect_from:
 ## Academic Appointments
 
 **2024–2026**
-<div style="display: flex; align-items: center; margin-bottom:5x;">
+<div style="display: flex; align-items: center; margin-bottom:5px;">
   <!-- Image on the left -->
   <div style="margin-right: 10px;">
     <img src="/images/bowdoin.png" alt="Lehigh University Logo" width="40;">
@@ -25,7 +25,7 @@ redirect_from:
 
   <!-- Header on the right -->
   <div>
-    <h3>Bowdoin College - NSF Postdoctoral Research Fellow</h3>
+    <h3> <h3 style="color:rgb(0, 0, 0); margin: 0;">NSF Postdoctoral Scholar</h3>
   </div>
 </div>    
 PI: Abhilasha Kumar, PhD
@@ -46,8 +46,6 @@ PI: Abhilasha Kumar, PhD
   </div>
 </div> 
 **2024 - PhD in Psychology**  
-*An Integrated Language and Memory Approach to Conceptual-Lexical Retrieval*  
-Advisor: Pádraig O’Séaghdha, PhD
 
  <div style="height: 30px;"></div>
   
@@ -62,10 +60,10 @@ Advisor: Pádraig O’Séaghdha, PhD
     <h3 style="color: #4c3f2b;; margin: 0;">Lehigh University</h3>
   </div>
 </div>
-</div>
-<p><strong>2020 - Master Science in Psychology</strong></p>
-<p><em>Raising the Bar: Differentiating Immediate and Long-term Components of Semantic Interference in Language Production</em></p>
-<p>Advisor: Pádraig O’Séaghdha, PhD</p>
+**2020 - Master Science in Psychology** 
+*Raising the Bar: Differentiating Immediate and Long-term Components of Semantic Interference in 
+Language Production*
+Advisor: Pádraig O’Séaghdha, PhD
 <div style="height: 30px;"></div>
 
 <div style="display: flex; align-items: center; margin-bottom: 5px;">
