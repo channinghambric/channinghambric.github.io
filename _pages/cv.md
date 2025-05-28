@@ -20,7 +20,7 @@ redirect_from:
 <div style="display: flex; align-items: center;">
   <!-- Image on the left -->
   <div style="margin-right: 10px;">
-    <img src="/images/bowdoin.png" alt="Lehigh University Logo" width="30" style="margin-top: 40px;">
+    <img src="/images/bowdoin.png" alt="Lehigh University Logo" width="50;">
   </div>
 
   <!-- Header on the right -->
@@ -40,7 +40,7 @@ PI: Abhilasha Kumar, PhD
 <div style="display: flex; align-items: center;">
   <!-- Image on the left -->
   <div style="margin-right: 10px;">
-    <img src="/images/lehigh.png" alt="Lehigh University Logo" width="30" style="margin-top: 40px;">
+    <img src="/images/lehigh.png" alt="Lehigh University Logo" width="50;">
   </div>
 
   <!-- Header on the right -->
@@ -56,7 +56,7 @@ Advisor: Pádraig O’Séaghdha, PhD
 <div style="display: flex; align-items: center;">
   <!-- Image on the left -->
   <div style="margin-right: 10px;">
-    <img src="/images/lehigh.png" alt="Lehigh University Logo" width="30" style="margin-top: 40px;">
+    <img src="/images/lehigh.png" alt="Lehigh University Logo" width="50;">
   </div>
 
   <!-- Header on the right -->
@@ -69,7 +69,7 @@ Advisor: Pádraig O’Séaghdha, PhD
 <div style="display: flex; align-items: center;">
   <!-- Image on the left -->
   <div style="margin-right: 10px;">
-    <img src="/images/wm.png" alt="Lehigh University Logo" width="30" style="margin-top: 40px;">
+    <img src="/images/wm.png" alt="Lehigh University Logo" width="50;">
   </div>
 
   <!-- Header on the right -->
