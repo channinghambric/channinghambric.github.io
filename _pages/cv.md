@@ -54,7 +54,7 @@ PI: Abhilasha Kumar, PhD
  
 
 
- <div style="height: 30px;"></div>
+ <div style="height: 50px;"></div>
   
 <div style="display: flex; align-items: center; margin-bottom: 5px;">
   <!-- Image on the left -->
@@ -67,9 +67,9 @@ PI: Abhilasha Kumar, PhD
     <h3 style="color: #4c3f2b;; margin: 0;">Lehigh University</h3>
   </div>
 </div>
-**2020 - Master Science in Psychology** 
+**2020 - Master of Science in Psychology** 
 
-<div style="height: 30px;"></div>
+<div style="height: 50px;"></div>
 
 <div style="display: flex; align-items: center; margin-bottom: 5px;">
   <!-- Image on the left -->
