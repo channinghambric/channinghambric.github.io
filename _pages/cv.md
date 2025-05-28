@@ -34,7 +34,7 @@ PI: Abhilasha Kumar, PhD
 
 ## Education
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; margin-bottom: 5px;">
   <!-- Image on the left -->
   <div style="margin-right: 10px;">
     <img src="/images/lehigh.png" alt="Lehigh University Logo" width="40;">
@@ -42,7 +42,7 @@ PI: Abhilasha Kumar, PhD
 
   <!-- Header on the right -->
   <div>
-    <h3 style="color: #4c3f2b;">Lehigh University</h3>
+    <h3 style="color: #4c3f2b; margin: 0;">Lehigh University</h3>
   </div>
 </div> 
 **2024 - PhD in Psychology**  
@@ -51,7 +51,7 @@ Advisor: Pádraig O’Séaghdha, PhD
 
  <div style="height: 30px;"></div>
   
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; margin-bottom: 5px;">
   <!-- Image on the left -->
   <div style="margin-right: 10px;">
     <img src="/images/lehigh.png" alt="Lehigh University Logo" width="40;">
@@ -59,14 +59,16 @@ Advisor: Pádraig O’Séaghdha, PhD
 
   <!-- Header on the right -->
   <div>
-    <h3 style="color: #4c3f2b;">Lehigh University</h3>
+    <h3 style="color: #4c3f2b;; margin: 0;">Lehigh University</h3>
   </div>
 </div>
 **2020 - Master Science in Psychology** 
-
+*Raising the Bar: Differentiating Immediate and Long-term Components of Semantic Interference in 
+Language Production*
+Advisor: Pádraig O’Séaghdha, PhD
 <div style="height: 30px;"></div>
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; margin-bottom: 5px;">
   <!-- Image on the left -->
   <div style="margin-right: 10px;">
     <img src="/images/wm.png" alt="Lehigh University Logo" width="40;">
@@ -74,7 +76,7 @@ Advisor: Pádraig O’Séaghdha, PhD
 
   <!-- Header on the right -->
   <div>
-    <h3 style="color: #003300;">The College of William & Mary</h3>
+    <h3 style="color: #003300;; margin: 0;">The College of William & Mary</h3>
   </div>
 </div>
 **2018 - Bachelor of Science in Psychology**    
