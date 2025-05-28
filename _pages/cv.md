@@ -34,7 +34,6 @@ PI: Abhilasha Kumar, PhD
 
 ## Education
 
-**2024 - PhD in Psychology**  
 <div style="display: flex; align-items: center;">
   <!-- Image on the left -->
   <div style="margin-right: 10px;">
@@ -46,10 +45,11 @@ PI: Abhilasha Kumar, PhD
     <h3 style="color: #4c3f2b;">Lehigh University</h3>
   </div>
 </div> 
+**2024 - PhD in Psychology**  
 *An Integrated Language and Memory Approach to Conceptual-Lexical Retrieval*  
 Advisor: Pádraig O’Séaghdha, PhD
 
-**2020 - Master Science in Psychology**  
+ <div style="height: 30px;"></div>
   
 <div style="display: flex; align-items: center;">
   <!-- Image on the left -->
@@ -62,8 +62,10 @@ Advisor: Pádraig O’Séaghdha, PhD
     <h3 style="color: #4c3f2b;">Lehigh University</h3>
   </div>
 </div>
+**2020 - Master Science in Psychology** 
 
-**2018 - Bachelor of Science in Psychology**  
+<div style="height: 30px;"></div>
+
 <div style="display: flex; align-items: center;">
   <!-- Image on the left -->
   <div style="margin-right: 10px;">
@@ -75,8 +77,7 @@ Advisor: Pádraig O’Séaghdha, PhD
     <h3 style="color: #003300;">The College of William & Mary</h3>
   </div>
 </div>
-**Bachelor of Science in Psychology**  
-The College of William and Mary  
+**2018 - Bachelor of Science in Psychology**    
 *Magna cum laude with honors*
 
 ---
