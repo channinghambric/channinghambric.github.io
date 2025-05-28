@@ -17,7 +17,7 @@ redirect_from:
 ## Academic Appointments
 
 **2024–2026**
-<div style="display: flex; align-items: center; margin-bottom:5px;">
+<div style="display: flex; align-items: center;">
   <!-- Image on the left -->
   <div style="margin-right: 10px;">
     <img src="/images/bowdoin.png" alt="Lehigh University Logo" width="40;">
@@ -25,7 +25,7 @@ redirect_from:
 
   <!-- Header on the right -->
   <div>
-    <h3> <h3 style="color:rgb(0, 0, 0); margin: 0;">NSF Postdoctoral Scholar</h3>
+    <h3 style="color:rgb(0, 0, 0); margin: 0;">NSF Postdoctoral Scholar </h3>
   </div>
 </div>    
 PI: Abhilasha Kumar, PhD
