@@ -20,27 +20,25 @@ redirect_from:
 <div style="display: flex; align-items: center;">
   <!-- Image on the left -->
   <div style="margin-right: 10px;">
-    <img src="/images/bowdoin.png" alt="Lehigh University Logo" width="50;">
+    <img src="/images/bowdoin.png" alt="Lehigh University Logo" width="40;">
   </div>
 
   <!-- Header on the right -->
   <div>
-    <h3>Bowdoin College</h3>
+    <h3>Bowdoin College - NSF Postdoctoral Research Fellow</h3>
   </div>
-</div>  
-NSF Postdoctoral Research Fellow  
+</div>    
 PI: Abhilasha Kumar, PhD
 
 ---
 
 ## Education
 
-**2024**  
-**PhD in Psychology**  
+**2024 - PhD in Psychology**  
 <div style="display: flex; align-items: center;">
   <!-- Image on the left -->
   <div style="margin-right: 10px;">
-    <img src="/images/lehigh.png" alt="Lehigh University Logo" width="50;">
+    <img src="/images/lehigh.png" alt="Lehigh University Logo" width="40;">
   </div>
 
   <!-- Header on the right -->
@@ -51,12 +49,12 @@ PI: Abhilasha Kumar, PhD
 *An Integrated Language and Memory Approach to Conceptual-Lexical Retrieval*  
 Advisor: Pádraig O’Séaghdha, PhD
 
-**2020**  
-**Master of Science in Psychology**  
+**2020 - Master Science in Psychology**  
+  
 <div style="display: flex; align-items: center;">
   <!-- Image on the left -->
   <div style="margin-right: 10px;">
-    <img src="/images/lehigh.png" alt="Lehigh University Logo" width="50;">
+    <img src="/images/lehigh.png" alt="Lehigh University Logo" width="40;">
   </div>
 
   <!-- Header on the right -->
@@ -65,11 +63,11 @@ Advisor: Pádraig O’Séaghdha, PhD
   </div>
 </div>
 
-**2018**  
+**2018 - Bachelor of Science in Psychology**  
 <div style="display: flex; align-items: center;">
   <!-- Image on the left -->
   <div style="margin-right: 10px;">
-    <img src="/images/wm.png" alt="Lehigh University Logo" width="50;">
+    <img src="/images/wm.png" alt="Lehigh University Logo" width="40;">
   </div>
 
   <!-- Header on the right -->
