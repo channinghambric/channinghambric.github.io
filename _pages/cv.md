@@ -49,7 +49,7 @@ PI: Abhilasha Kumar, PhD
 <!-- Degree and Advisor Info -->
 <div>
   <strong>2024 - PhD in Psychology</strong><br>
-  <em>Advisor: Padraig O'Seaghdha, PhD</em>
+  Advisor: Pádraig O’Séaghdha, PhD
 </div>
  
 
