@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-Even though speaking is learned at an early stage of development, it is far from a simple process. Rather, in order to speak even a single word, we must map the semantic concept we want to convey to a specific word, which must then be broken down into the minute phonological units found within our specific language system. My research investigates how people navigate this intricate process. 
+Even though speaking is learned at an early stage of development, it is far from a simple process. Rather, in order to speak even a single word, we must map the semantic concept we want to convey to a specific word, which must then be broken down into the minute phonological units found within our specific language system. My research integrates traditional cognitive psychology and contemporary cognitive science methods to investigate how individuals navigate this intricate process.
 
 <div style="display: flex; align-items: flex-start;">
   <!-- Left side: header and paragraph -->
