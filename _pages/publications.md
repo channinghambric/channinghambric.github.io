@@ -17,11 +17,12 @@ author_profile: true
 
 ---
 
-## Articles in Preparation
+## Articles Currently Under Review
+- Hambric, C. E. *Retuning Conceptual-Lexical Access: Does Interference Promote More Robust Learning?*  
+- Hambric, C. E., Sides, J., Holmes, K. J., & Kumar, A. A. *Representing object state change during sentence comprehension: Boundary conditions and language-specific constraints*  
+- Hambric, C. E., J. A., Rammell, S. C., Kronenberger, W. G., Pisoni, D. B., Jones, M. N., & Kumar, A. A. *Adaptive Lexical Search in Verbal Fluency: The Subtle Role of Early Auditory Experience* 
 
-- Hambric, C. E. *(under review)*. *Retuning Conceptual-Lexical Access: Does Interference Promote More Robust Learning?*  
-- Hambric, C. E., Chun, S., Sides, J., Holmes, K. J., & Kumar, A. A. *(in prep.)*. *Boundary conditions in mental representations of object-state changes: A non-replication and extension.*  
-- Hambric, C. E., Kumar, A. A., Willits, J. A., Rammell, S. C., Kronenberger, W. G., Pisoni, D. B., & Jones, M. N. *(in prep.)*. *Lexical interactions in memory search across multiple domains: A case study of normal hearing individuals and those with cochlear implants.*  
+## Articles in Preparation
 - O’Séaghdha, P. G., Hambric, C. E., Hupbach, A., & Heflin, J. *(in prep.)*. *Task Specificity of Semantic Interference Effects in Production.*  
 - O’Séaghdha, P. G., Frazer, A., & Hambric, C. E. *(in preparation)*. *Preparation As a Mirror of Production: An Attentional Account of Phonological Preparation in Speaking.*
 
