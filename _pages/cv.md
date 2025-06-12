@@ -100,8 +100,8 @@ PI: Abhilasha Kumar, PhD
 
 ## Articles Currently Under Review
 - Hambric, C. E. *Retuning Conceptual-Lexical Access: Does Interference Promote More Robust Learning?*  
-- Hambric, C. E., Sides, J., Holmes, K. J., & Kumar, A. A. *Representing object state change during sentence comprehension: Boundary conditions and language-specific constraints*  
-- Hambric, C. E., J. A., Rammell, S. C., Kronenberger, W. G., Pisoni, D. B., Jones, M. N., & Kumar, A. A. *Adaptive Lexical Search in Verbal Fluency: The Subtle Role of Early Auditory Experience* 
+- Hambric, C. E., Sides, J., Holmes, K. J., & Kumar, A. A. *Representing object state change during sentence comprehension: Boundary conditions and language-specific constraints*.  
+- Hambric, C. E., J. A., Rammell, S. C., Kronenberger, W. G., Pisoni, D. B., Jones, M. N., & Kumar, A. A. *Adaptive Lexical Search in Verbal Fluency: The Subtle Role of Early Auditory Experience*. 
 
 ## Articles in Preparation
 - O’Séaghdha, P. G., Hambric, C. E., Hupbach, A., & Heflin, J. *(in prep.)*. *Task Specificity of Semantic Interference Effects in Production.*  
