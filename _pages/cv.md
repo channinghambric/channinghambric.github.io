@@ -112,8 +112,10 @@ PI: Abhilasha Kumar, PhD
 ## Presentations
 
 - **November 2025**  
+  Hambric, C. E., Middleton, E. L., & Kumar, A. A. (2024). *Computational Perspectives on Semantic Fluency Impairments in People with Aphasia* Poster, 66th Annual Meeting of the Psychonomic Society.
+- **July 2025**  
   Hambric, C. E., Holmes, K. J., & Kumar, A. A. (2025). *Are object state changes represented during language comprehension? A non-replication and extension.* Poster, 47th Annual Meeting of the Cognitive Science Society.  
-- **November 2025**  
+- **July 2025**  
   Hambric, C. E., & Kumar, A. A. (2025). *Lexical Search Dynamics in Taxonomic, Thematic, and Ad hoc Categories.* Poster, 47th Annual Meeting of the Cognitive Science Society.  
 - **November 2024**  
   Kumar, A. A., & Hambric, C. E. (2024). *Task and Resource Constraints Modulate Memory Search: Evidence from Gamified Experiments with Individuals, Groups, and Dyads.* Poster, 65th Annual Meeting of the Psychonomic Society.  
