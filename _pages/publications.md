@@ -8,7 +8,7 @@ author_profile: true
 ## Publications
 
 
--Hambric, C. E. (2025).*[Retuning conceptual-lexical access: does interference promote more robust learning?](https://link.springer.com/article/10.1007/s00426-025-02169-2?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20250830&utm_content=10.1007/s00426-025-02169-2)* *Psychological Research*, 89, 137.
+-Hambric, C. E. (2025). *[Retuning conceptual-lexical access: does interference promote more robust learning?](https://link.springer.com/article/10.1007/s00426-025-02169-2?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20250830&utm_content=10.1007/s00426-025-02169-2)* *Psychological Research*, 89, 137.
 - Hambric, C. E., Holmes, K. J., & Kumar, A. A. (2025). *[Are object state changes represented during language comprehension? A non-replication and extension.](https://escholarship.org/uc/item/8gr5r4dh)* *Proceedings of the Annual Meeting of the Cognitive Science Society* (Vol. 47).  
 - Hambric, C. E., Jones, M. N., & Kumar, A. A. (2025). *[Lexical Search Dynamics in Taxonomic, Thematic, and Ad hoc Categories.](https://escholarship.org/uc/item/90g1r4p3)* *Proceedings of the Annual Meeting of the Cognitive Science Society* (Vol. 47).  
 - Hambric, C. E., & O’Séaghdha, P. G. (2025). *[Retrieval-induced semantic interference](https://www.sciencedirect.com/science/article/pii/S0749596X24000731)*. *Journal of Memory and Language, 140*, 104570.  
