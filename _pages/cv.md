@@ -159,18 +159,19 @@ PI: Abhilasha Kumar, PhD
 
 ## Professional & Service Roles
 
+- Panelist, *Encouraging Future Scientists: Supporting Undergraduates at Psychonomics* (2025)
+- Nano/Human Interface RA (2023–2024)
+- Participant Pool Coordinator (2022–2023)
+- Research Advisory Committee Rep (2020–2022)
 - Dept. Graduate Committee Rep (2021–2022)  
 - IRB Graduate Student Rep (2019–2021)  
-- Research Advisory Committee Rep (2020–2022)  
-- “Brown Bag” Colloquia Coordinator (2019–2020)  
-- Participant Pool Coordinator (2022–2023)  
-- Nano/Human Interface RA (2023–2024)
+- “Brown Bag” Colloquia Coordinator (2019–2020)     
 
 ---
 
 ## Peer Review Activities
 
-- *Memory & Cognition*, *Psychonomic Bulletin & Review*, *Memory*, *Cognitive Science Society*, *JEP:LMC*, *JEP:HPP*
+- *Memory & Cognition*, *Psychonomic Bulletin & Review*, *Memory*, *Cognitive Science Society*, *JEP:LMC*, *JEP:HPP*, *Neuropsychology*
 
 ---
 
@@ -180,4 +181,4 @@ PI: Abhilasha Kumar, PhD
 - Cognitive Science Society  
 - Association for Psychological Science  
 - Society for Human Sentence Processing  
-- Women in Cognitive Science+
+- WICS+
