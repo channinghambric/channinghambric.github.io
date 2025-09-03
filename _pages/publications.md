@@ -20,8 +20,8 @@ author_profile: true
 ---
 
 ## Articles Currently Under Review
-- Hambric, C. E., Sides, J., Holmes, K. J., & Kumar, A. A. *Representing object state change during sentence comprehension: Boundary conditions and language-specific constraints*.  
-- Hambric, C. E., J. A., Rammell, S. C., Kronenberger, W. G., Pisoni, D. B., Jones, M. N., & Kumar, A. A. *Adaptive Lexical Search in Verbal Fluency: The Subtle Role of Early Auditory Experience*. 
+- Hambric, C. E., Sides, J., Holmes, K. J., & Kumar, A. A. *[Representing object state change during sentence comprehension: Boundary conditions and language-specific constraints](https://osf.io/5jkec)*.  
+- Hambric, C. E., J. A., Rammell, S. C., Kronenberger, W. G., Pisoni, D. B., Jones, M. N., & Kumar, A. A. *[Signatures of Adaptive Memory Search: How Early Linguistic Input Shapes Strategic Use of Lexical Information.](https://osf.io/preprints/psyarxiv/jbnfd_v1)*. 
 
 ## Articles in Preparation
 - Kumar, A. A., Hambric, C. E., Zhang, L., Jones, M. N.  *Search at Multiple Scales.*
