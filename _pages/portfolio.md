@@ -43,7 +43,7 @@ In my current postdoctoral position, I am working with my supervisor <a href="ht
   <div style="flex: 1; padding-right: 20px;">
     <h3 style="color: #6cab6c;">How do we model it?</h3>
     <p>
-      Once we have a set of fluency lists, we first extract word meanings from distributional semantic models. We then use the Python package *[forager](https://forager.research.bowdoin.edu)*, developed by Kumar et al. (2024), to divide each list into clusters and switches and run optimal foraging models. Each of these models incorporates lexical cues, such as word frequency, semantic similarity, and phonological similarity, at different stages of the search process. We then examine how well each model predicted the data, taking into account differing model parameters. 
+      Once we have a set of fluency lists, we first extract word meanings from distributional semantic models. We then use the Python package <em>forager</em>, developed by Kumar et al. (2024), to divide each list into clusters and switches and run optimal foraging models. Each of these models incorporates lexical cues, such as word frequency, semantic similarity, and phonological similarity, at different stages of the search process. We then examine how well each model predicted the data, taking into account differing model parameters. 
     </p>
   </div>
 
