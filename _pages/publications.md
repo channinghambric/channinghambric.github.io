@@ -19,7 +19,7 @@ author_profile: true
 
 ---
 
-## Articles Currently Under Review
+## Articles Currently Under Revision
 - Hambric, C. E., Sides, J., Holmes, K. J., & Kumar, A. A. *[Representing object state change during sentence comprehension: Boundary conditions and language-specific constraints](https://osf.io/5jkec)*.  
 - Hambric, C. E., J. A., Rammell, S. C., Kronenberger, W. G., Pisoni, D. B., Jones, M. N., & Kumar, A. A. *[Signatures of Adaptive Memory Search: How Early Linguistic Input Shapes Strategic Use of Lexical Information.](https://osf.io/preprints/psyarxiv/jbnfd_v1)*. 
 
