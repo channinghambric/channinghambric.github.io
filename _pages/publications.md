@@ -24,7 +24,7 @@ author_profile: true
 - Hambric, C. E., J. A., Rammell, S. C., Kronenberger, W. G., Pisoni, D. B., Jones, M. N., & Kumar, A. A. *[Signatures of Adaptive Memory Search: How Early Linguistic Input Shapes Strategic Use of Lexical Information.](https://osf.io/preprints/psyarxiv/jbnfd_v1)*. 
 
 ## Articles in Preparation
-- Kumar, A. A., Hambric, C. E., Zhang, L., Jones, M. N.  *Search at Multiple Scales.*
+- Kumar, A. A., Hambric, C. E., Zhang, L., Jones, M. N.  *A large-scale investigation of explore-exploit tradeoffs and lexical interactions in memory search across diverse categorical domains.*
 - Hambric, C. E., Middleton, E. L., Kumar, A. A.  *Computational Perspectives on Semantic Fluency Impairments in People with Aphasia.*
 - O’Séaghdha, P. G., Hambric, C. E., Hupbach, A., & Heflin, J. *(in prep.)*. *Task Specificity of Semantic Interference Effects in Production.*  
 - O’Séaghdha, P. G., Frazer, A., & Hambric, C. E. *(in preparation)*. *Preparation As a Mirror of Production: An Attentional Account of Phonological Preparation in Speaking.*
