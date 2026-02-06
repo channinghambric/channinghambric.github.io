@@ -7,7 +7,7 @@ author_profile: true
 
 ## Publications
 
-
+- Hambric, C. E., J. A., Rammell, S. C., Kronenberger, W. G., Pisoni, D. B., Jones, M. N., & Kumar, A. A. (in press). *[Signatures of Adaptive Memory Search: How Early Linguistic Input Shapes Strategic Use of Lexical Information.](https://osf.io/preprints/psyarxiv/jbnfd_v1)*. *Journal of Experimental Psychology: General.*
 - Hambric, C. E. (2025). *[Retuning conceptual-lexical access: does interference promote more robust learning?](https://link.springer.com/article/10.1007/s00426-025-02169-2?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20250830&utm_content=10.1007/s00426-025-02169-2)* *Psychological Research*, 89, 137.
 - Hambric, C. E., Holmes, K. J., & Kumar, A. A. (2025). *[Are object state changes represented during language comprehension? A non-replication and extension.](https://escholarship.org/uc/item/8gr5r4dh)* *Proceedings of the Annual Meeting of the Cognitive Science Society* (Vol. 47).  
 - Hambric, C. E., Jones, M. N., & Kumar, A. A. (2025). *[Lexical Search Dynamics in Taxonomic, Thematic, and Ad hoc Categories.](https://escholarship.org/uc/item/90g1r4p3)* *Proceedings of the Annual Meeting of the Cognitive Science Society* (Vol. 47).  
@@ -21,7 +21,6 @@ author_profile: true
 
 ## Articles Currently Under Revision
 - Hambric, C. E., Sides, J., Holmes, K. J., & Kumar, A. A. *[Representing object state change during sentence comprehension: Boundary conditions and language-specific constraints](https://osf.io/5jkec)*.  
-- Hambric, C. E., J. A., Rammell, S. C., Kronenberger, W. G., Pisoni, D. B., Jones, M. N., & Kumar, A. A. *[Signatures of Adaptive Memory Search: How Early Linguistic Input Shapes Strategic Use of Lexical Information.](https://osf.io/preprints/psyarxiv/jbnfd_v1)*. 
 - Hambric, C. E., Middleton, E. L., Kumar, A. A.  *Computational Perspectives on Semantic Fluency Impairments in People with Aphasia.*
 
 ## Articles in Preparation
