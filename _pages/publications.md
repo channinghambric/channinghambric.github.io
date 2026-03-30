@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 ## Publications
-
+- Hambric, C. E., Sides, J., Holmes, K. J., & Kumar, A. A. (in press).*[Representing object state change during sentence comprehension: Boundary conditions and language-specific constraints](https://osf.io/5jkec)*.*Journal of Memory and Language.*  
+- Hambric, C. E., Middleton, E. L., Kumar, A. A. (in press). Computational Perspectives on Semantic Fluency Impairments in People with Aphasia. *Journal of Speech, Language and Hearing Research.*
 - Hambric, C. E., J. A., Rammell, S. C., Kronenberger, W. G., Pisoni, D. B., Jones, M. N., & Kumar, A. A. (in press). *[Signatures of Adaptive Memory Search: How Early Linguistic Input Shapes Strategic Use of Lexical Information.](https://osf.io/preprints/psyarxiv/jbnfd_v1)*. *Journal of Experimental Psychology: General.*
 - Hambric, C. E. (2025). *[Retuning conceptual-lexical access: does interference promote more robust learning?](https://link.springer.com/article/10.1007/s00426-025-02169-2?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20250830&utm_content=10.1007/s00426-025-02169-2)* *Psychological Research*, 89, 137.
 - Hambric, C. E., Holmes, K. J., & Kumar, A. A. (2025). *[Are object state changes represented during language comprehension? A non-replication and extension.](https://escholarship.org/uc/item/8gr5r4dh)* *Proceedings of the Annual Meeting of the Cognitive Science Society* (Vol. 47).  
@@ -18,10 +19,6 @@ author_profile: true
 - Thrash, T. M., Wadsworth, L. M., Sim, Y. Y., Wan, X., & Everidge, C. (2019). *Implicit–Explicit Motive Congruence and Moderating Factors.* In *The Oxford Handbook of Human Motivation*.  
 
 ---
-
-## Articles Currently Under Revision
-- Hambric, C. E., Sides, J., Holmes, K. J., & Kumar, A. A. *[Representing object state change during sentence comprehension: Boundary conditions and language-specific constraints](https://osf.io/5jkec)*.  
-- Hambric, C. E., Middleton, E. L., Kumar, A. A.  *Computational Perspectives on Semantic Fluency Impairments in People with Aphasia.*
 
 ## Articles in Preparation
 - Kumar, A. A., Hambric, C. E., Zhang, L., Jones, M. N.  *A large-scale investigation of explore-exploit tradeoffs and lexical interactions in memory search across diverse categorical domains.*
