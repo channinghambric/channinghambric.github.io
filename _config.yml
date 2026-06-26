@@ -13,7 +13,7 @@ title                    : "Channing Hambric, PhD"
 title_separator          : "-"
 name: &name |
   Channing Hambric, PhD
-  Cognitive Scientist - Postdoctoral Scholar
+  Visiting Assistant Professor
 url                      : https://channinghambric.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "channinghambric/channinghambric.github.io"
@@ -25,12 +25,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Channing Hambric, PhD"
-  pronouns         : "Cognitive Scientist - Postdoctoral Scholar"  
+  pronouns         : "She/Her"  
   bio              : ""
-  location         : "Brunswick ME"
-  employer         : "Bowdoin College"
+  location         : "Bethlehem, PA"
+  employer         : "Lehigh University"
   uri              : # URL
-  email            : "c.hambric@bowdoin.edu" 
+  email            : "cee218@lehigh.edu" 
 
   # Academic websites
   academia         : # URL
