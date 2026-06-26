@@ -21,15 +21,18 @@ author_profile: true
 </div>
 
 ### Primary Instructor
-- **Cognitive Psychology** – Summer Session II ’21, ’22, ’23  
+- **Introduction to Psychology** – Fall 2026
+- **Research Methods & Data Analysis III** – Fall 2026
+- **Psychology of Language** – Fall 2026
+- **Cognitive Psychology** – Summer 2021-2023 
 - **Cognitive Neuroscience Recitation** – Fall 2020  
-- **Research Methods & Data Analysis I - Lab** - Spring ’19, Fall ’19  
-- **Research Methods & Data Analysis III - Lab** - Spring ’20, Spring ’21, Fall ’21
+- **Research Methods & Data Analysis I - Lab** - Spring 2019, Fall 2019  
+- **Research Methods & Data Analysis III - Lab** - Spring 2020, Spring 2021, Fall 2021
 
 
 ### Teaching Assistant
-- **Introduction to Linguistics** – Fall ’18, Fall ’22, Fall ’23  
-- **Research Methods & Data Analysis I** – Spring ’19, Fall ’19  
-- **Research Methods & Data Analysis III** – Spring ’20, Spring ’21, Fall ’21  
+- **Introduction to Linguistics** – Fall 2018, Fall 2022, Fall 2023  
+- **Research Methods & Data Analysis I** – Spring 2019, Fall 2019  
+- **Research Methods & Data Analysis III** – Spring 2020, Spring 2021, Fall 2021  
 - **Cognitive Neuroscience** – Fall 2020  
-- **Introduction to Cognitive Science** – Spring ’24  
+- **Introduction to Cognitive Science** – Spring 2024  
